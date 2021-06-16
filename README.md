@@ -2,6 +2,7 @@
 This is my personal GitHub page.
 - 🔭 I’m currently working on data analysis with Python
 - 🌱 I’m currently learning Python, R and other data science languages
+- Here you will read English and Spanish
 
 <!--
 **gerardolievano/gerardolievano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
